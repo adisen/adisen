@@ -113,6 +113,7 @@ I am excited to continue learning and growing in my career and make a meaningful
 
 ## 📊 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adisen&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <br/>
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=adisen&theme=dark&hide_border=false)<br/>
 <br/>
@@ -120,11 +121,6 @@ I am excited to continue learning and growing in my career and make a meaningful
 </div>  
 
 <br/>
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=adisen&icon=0&color=0)](https://visitcount.itsvg.in)
 <br/>  
   
 
