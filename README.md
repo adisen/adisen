@@ -1,10 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
-### <div align="center">I'm Israel, an incoming Software Engineer at Asana, Vancouver.</div>  
-  
+### <div align="center">I'm Israel, an incoming Software Engineer at Asana, Vancouver.</div>
 
 As a highly motivated and driven computer engineering graduate, I am seeking opportunities to leverage my technical skills and leadership abilities in a dynamic and challenging environment. With a strong foundation in data structures, algorithms, and object-oriented programming, I have a proven track record of success in various roles in the technology industry.
 
@@ -14,18 +12,16 @@ In addition to my technical skills, I am a strong leader and team player with ex
 
 Overall, I have a diverse skill set and a track record of success in various roles, both technical and leadership-oriented. I am confident in my ability to contribute to and thrive in any team environment.
 
-I am excited to continue learning and growing in my career and make a meaningful impact in the technology industry.  
-  
+I am excited to continue learning and growing in my career and make a meaningful impact in the technology industry.
 
-<br/>  
+<br/>
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -43,9 +39,8 @@ I am excited to continue learning and growing in my career and make a meaningful
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -65,9 +60,8 @@ I am excited to continue learning and growing in my career and make a meaningful
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -77,12 +71,12 @@ I am excited to continue learning and growing in my career and make a meaningful
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/adisen" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -105,40 +99,26 @@ I am excited to continue learning and growing in my career and make a meaningful
 <a href="https://www.youtube.com/user/favoritetechbro" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
+## 📊 Github Stats
 
-## 📊 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adisen&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <br/>
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=adisen&theme=dark&hide_border=false)<br/>
+<br/>
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=adisen&theme=dark&hide_border=false)<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adisen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>  
 
+</div>
 <br/>
-<br/>  
-  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cjb5xwogktlhjl73djhkb6u9f&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cjb5xwogktlhjl73djhkb6u9f&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adisen&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
