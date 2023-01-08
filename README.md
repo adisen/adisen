@@ -116,8 +116,6 @@ I am excited to continue learning and growing in my career and make a meaningful
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
