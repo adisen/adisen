@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Israel, an incoming Software Engineer at Asana, Vancouver.</div>
+### <div align="center">I'm Israel!!!</div>
 
 As a highly motivated and driven computer engineering graduate, I am seeking opportunities to leverage my technical skills and leadership abilities in a dynamic and challenging environment. With a strong foundation in data structures, algorithms, and object-oriented programming, I have a proven track record of success in various roles in the technology industry.
 
